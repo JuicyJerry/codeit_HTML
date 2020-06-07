@@ -1,0 +1,25 @@
+@font-face {
+    src: url(../fonts/BMJUA_ttf.ttf);
+    font-family: "BMJUA";
+}
+p {
+    font-family: "BMJUA";
+}
+#serif {
+font-family: "Times New Roman",  serif;
+}
+#Sans-Serif {
+font-family: Arial, Sans-Serif;
+}
+#monospace {
+font-family: Courier, Monospace;
+}
+#cursive {
+font-family: "Comic Sans MS", cursive;
+}
+#fantasy {
+font-family: Impact, fantasy;
+}
+#google {
+font-family: 'Roboto', sans-serif;
+}
