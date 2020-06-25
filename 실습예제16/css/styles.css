@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "JUA";
+    src: url("../fonts/BMJUA_otf.otf");
+    
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: #F0E8D9;
+}
+
+h1 {
+    margin-top: 75px;
+    margin-bottom: 30px;
+    font-size: 64px;
+    color:  #58595B;
+    font-family: JUA, serif, sans-serif;
+    text-align: center;;
+}
+
+h2 {
+    margin-bottom: 75px;
+    font-size: 32px;
+    color:  #58595B;
+    font-family: JUA, serif, sans-serif;
+    text-align: center;;
+
+}
+
+.foodImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.foodImgInfo {
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.foodImgInfo h3 {
+    margin-bottom: 20px;
+    font-family: JUA;
+    font-size: 32px;
+    color:  #58595B;
+    font-family: JUA, serif, sans-serif;
+}
+
+.foodImgInfo p {
+    font-size: 16px;
+    text-align: left;
+    color:  #58595B;
+    font-family: JUA, serif, sans-serif;
+}
+
+.foodImgInfo a {
+    color: #0000EE;
+    font-size: 16px;
+    text-decoration: none;
+    font-family: JUA, serif, sans-serif;
+}
+
+.foodImgNinfo {
+    margin-bottom: 50px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.food-container {
+    width: 660px;
+    margin-left: auto;
+    margin-right: auto;
+}
